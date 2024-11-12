@@ -6,7 +6,8 @@ public class Main {
         System.out.println(message);
 
         int nr = 10;
-        System.out.println(nr)
-        ;
+        System.out.println(nr);
+
+        //comment
     }
 }
